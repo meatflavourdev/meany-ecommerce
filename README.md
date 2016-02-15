@@ -4,6 +4,10 @@ This project was generated with the [Angular Full-Stack Generator](https://githu
 
 ## Getting Started
 
+###Docker
+Mongodb Docker Command
+`docker run --name db -d mongo`
+
 ### Prerequisites
 
 - [Git](https://git-scm.com/)
